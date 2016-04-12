@@ -1,0 +1,5 @@
+"noname"
+{
+	"title"		"noname"
+	"base"		""
+}
